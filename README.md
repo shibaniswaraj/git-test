@@ -1,6 +1,3 @@
 my first project
 
-//my first first project too
-
-
-merge conflict
+//my first first project too gg
