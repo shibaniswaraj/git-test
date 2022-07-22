@@ -1,4 +1,3 @@
 my first project
 
-//my first first project too
-gg
+//my first first project too gg
